@@ -14,4 +14,4 @@ My master's project is supervised by [Prof. Bill Byrne](https://sites.google.com
 
 My interests lie in the intersection of cutting-edge natural language processing research and the study of languages. As such, alongside my technical studies I have been a regular participant of courses at the [Centre for Languages and Inter-Communication](https://www.clic.eng.cam.ac.uk/) in German (passed Goethe B2 in 2022) and Chinese (preparing for HSK4).
 
-My CV is attached [CV](https://igorsterner.github.io/files/igorsternercv.pdf).
+My [CV](https://igorsterner.github.io/files/igorsternercv.pdf) is attached for more.
