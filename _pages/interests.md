@@ -14,16 +14,16 @@ This is a space where I outline some of my interests, largely through the form o
 My Bamboo Bike
 ======
 
-Over the 2020 Coronavirus lockdown, I built a bamboo bicycle! Below is an image of a poster I subsequently made for it and a link to a more detailed report.
+Over the 2020 Coronavirus lockdown, I built a bamboo bicycle!
 
 ![image](/images/bamboo.jpg)
 
-For more a more detailed report, please find the following [PDF](/files/My Bamboo Bike.pdf). For a sustainability poster on bamboo and bamboo bikes, please find this [PDF](/files/bamboobike.pdf).
+For more a more detailed report, please find the following [PDF](/files/mybamboobike.pdf). For a sustainability poster on bamboo and bamboo bikes, please find this [PDF](/files/bamboobike.pdf).
 
 Code-Switching
 ======
 
-As a project in the engineering department, I received linguistic and technical supervision to explore German tweets that use English words and phrases. Turns out some of the most common uses are: btw, finds, wtf, did and idk!
+As a project in the engineering department, I received some linguistic and technical supervision to explore German tweets that use English words and phrases. Turns out some of the most common uses are: btw, finds, wtf, did and idk!
 
 ![image](/images/csw.jpg)
 
