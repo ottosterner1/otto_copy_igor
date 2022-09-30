@@ -138,7 +138,7 @@ not to do this as a memento of the moment it broke beneath me.
 | Stem & headset             | £26.40  |           | £26.40        |
 | Groupset and wheels        | £80.00  |           | £80.00        |
 | -------------------------- |---------|-----------| ------------- |
-| Total:                     |         |           | £523.03       |
+| **Total:**                 |         |           | **£523.03**   |
 
 *Table 1: Cost breakup of complete project*
 
