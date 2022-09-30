@@ -25,8 +25,6 @@ Monaten dieses Jahres hat 162 Tsd. Tweets als CSW identifiziert. Außerdem wurde
 entwickelte Datensatz auf eine Genauigkeit von 77% geschätzt, was eine Basis für
 weitere Forschungsarbeiten sein kann.
 
-[TOC]
-
 ## 1 Einleitung
 
 Natural Language Processing (kurz NLP) wird für verschiedene Disziplinen als inter-
