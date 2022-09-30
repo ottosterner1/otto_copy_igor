@@ -129,7 +129,7 @@ not to do this as a memento of the moment it broke beneath me.
 ```
 Figure 11: Rear seatstay sliding out of its socket
 ```
-| **What**                 | **Price** | **Shipping** | **Total**   |
+| **    What    **              | **    Price    ** | **    Shipping    ** | **    Total    **   |
 |--------------------------|-----------|--------------|-------------|
 | Bamboo                   | £90.60    | £15.00       | £105.60     |
 | Hemp fiber               | £18.72    | £5.10        | £23.82      |
@@ -146,7 +146,7 @@ Figure 11: Rear seatstay sliding out of its socket
 | Tyres                    | £26.00    |              | £26.00      |
 | Stem & headset           | £26.40    |              | £26.40      |
 | Groupset and wheels      | £80.00    |              | £80.00      |
-| **Total:**               |           |              | **£523.03** |
+| **    Total:    **               |           |              | **    £523.03    ** |
 ```
 Table 1: Cost breakup of complete project
 ```
@@ -196,11 +196,6 @@ Thank you very much for the support of this grant and other supporters of this p
 |     Wall mount straight arm                  |     £24.68         |
 | **    Total   **                             | **    £130.65   ** |
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 ## References
 
 ```
