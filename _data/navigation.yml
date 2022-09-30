@@ -1,16 +1,15 @@
 # main links links
 main:
-  - title: "Interests"
-    url: /interests/
-#
-#  - title: "Talks"
-#    url: /talks/
+  - title: "关于我"
+    url: /about/cn
+#  - title: "Interests"
+#    url: /interests/
 #
 #  - title: "Teaching"
 #    url: /teaching/
 #
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
 #
 #  - title: "Blog Posts"
 #    url: /year-archive/
