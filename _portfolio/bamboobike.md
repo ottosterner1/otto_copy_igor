@@ -187,17 +187,22 @@ I finished by building a pretty wall mountable stand for the bike, ready to disp
 
 Thank you very much for the support of this grant and other supporters of this project.
 
-```
-West system Epoxy Junior Pack £24.
-Heavy duty rubber gloves £3.
-Brush pack £2.
-Dremel £44.
-Electrical tape £2.
-Tungsten Carbide bits + sanding bands £29.
-Wall mount straight arm £24.
-Total £130.
-```
+| What                                         | Price              |
+|----------------------------------------------|--------------------|
+|     West system Epoxy Junior Pack            |     £24.25         |
+|     Heavy duty rubber gloves                 |     £3.49          |
+|     Brush pack                               |     £2.79          |
+|     Dremel                                   |     £44.18         |
+|     Electrical tape                          |     £2.00          |
+|     Tungsten Carbide bits + sanding bands    |     £29.26         |
+|     Wall mount straight arm                  |     £24.68         |
+| **    Total   **                             | **    £130.65   ** |
 
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 ## References
 
 ```
