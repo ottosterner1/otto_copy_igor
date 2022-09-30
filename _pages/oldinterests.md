@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Interests"
-permalink: /interests/
+title: "OldInterests"
+permalink: /oldinterests/
 author_profile: true
 redirect_from:
   - /interest
