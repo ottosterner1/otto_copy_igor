@@ -1,9 +1,7 @@
 ---
 title: "My Bamboo Bike"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Over the 2020 Coronavirus lockdown, I built a bamboo bicycle!<br/><img src='/images/bamboo.jpg'>"
 collection: portfolio
 ---
 
-![image](images/bamboobike.jpg)
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+For more a more detailed report, please find the following [PDF](/files/mybamboobike.pdf).
