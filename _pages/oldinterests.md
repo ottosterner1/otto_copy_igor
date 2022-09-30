@@ -4,7 +4,7 @@ title: "OldInterests"
 permalink: /oldinterests/
 author_profile: true
 redirect_from:
-  - /interest
+  - /oldinterests
 ---
   
 {% include base_path %}
