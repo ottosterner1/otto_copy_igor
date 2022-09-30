@@ -4,8 +4,8 @@ title: "关于我"
 excerpt: "关于我"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about/cn
+  - /aboutcn.html
 ---
   
 我是 [剑桥大学](https://www.cam.ac.uk/) 工程系的硕士研究生，专业是 [信息和计算机工程](http://www.eng.cam.ac.uk/research/academic-divisions/information-engineering) 。通过过去三年的本科学习，我现在在修读深度学习、计算机视觉、信息论和计算神经科学的高级理论课程。
