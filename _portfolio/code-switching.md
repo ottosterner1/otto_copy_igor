@@ -6,8 +6,6 @@ excerpt: "As a project in the engineering department, I received some linguistic
 collection: portfolio
 ---
 
-For my full report in German, please find this [PDF](/files/CSW-report-igor-sterner.pdf).
-
 # Die Entwicklung eines modernen Deutsch-Englisch Code-Switching-Datensatzes für Postings in sozialen Medien
 
 Betreuer: Alexander Bleistein & Constanze Leeb
@@ -26,6 +24,8 @@ Wort-für-Wort-Uberprüfung von 5,8 Mio. deutschen Tweets aus den ersten vier
 Monaten dieses Jahres hat 162 Tsd. Tweets als CSW identifiziert. Außerdem wurde der
 entwickelte Datensatz auf eine Genauigkeit von 77% geschätzt, was eine Basis für
 weitere Forschungsarbeiten sein kann.
+
+[TOC]
 
 ## 1 Einleitung
 
@@ -206,7 +206,7 @@ Digga“ zu entfernen.
 Glucklicherweise kann man das gesamte dict.cc-Wörterbuch herunterladen, also wurde
 dieses mit einem mittelgroßen Wörterbuch von WL für deutsche Wörter verwendet.
 
-4.1.2 ’Urban Dictionary‘
+#### 4.1.2 ’Urban Dictionary‘
 
 Die Verwendung von abgekurzten englischen Wörtern wie
 ”
@@ -239,7 +239,7 @@ Englisch‘-Wörter sein konnte. Es wurden 44% dieser Wörter entfernt, weil es
 ’identische‘
 deutsche Wörter oder Wörter in deutschen Dialekten gibt.
 
-### 4.2 Wort-für-Wort-Uberpr ufung der Tweets
+### 4.2 Wort-für-Wort-Überprüfung der Tweets
 
 Der finale Schritt in Abb. 2 im Anhang zeigt die Ergebnisse des CSW-Erkennungsalgorithmus.
 Tweet (1) hat CSW und (2) ist einfach deutsch. Dieser Algorithmus identifizierte das Wort ’swear‘, das sich aus der ersten CSW-Phrase
@@ -349,10 +349,7 @@ zum Beispiel nur das erste Wort großzuschreiben. Deshalb lösen diese fälschli
 den CSW-Erkennungsalgorithmus aus.
 
 Eine weitere wichtige Begrenzung des derzeitigen Algorithmus ist die Fähigkeit des Algo-
-rithmus Rechtschreibfehler zu erkennen. Rechtschreibfehlersineaus zwei Grunden prob-
-
-
-limatisch(zwei häufige Fehler). Erstens führen sie oft dazu, dass der Spracherkennungs-
+rithmus Rechtschreibfehler zu erkennen. Rechtschreibfehlersineaus zwei Grunden problimatisch(zwei häufige Fehler). Erstens führen sie oft dazu, dass der Spracherkennungs-
 algorithmus falsch
 ’DE‘ ausgibt, wenn es in Wirklichkeit Englisch ist. Zweitens wurden
 Rechtschreibfehler entdeckt, die dazu fuhren, dass andere Wörter wie CSW-Wörterbuch-
