@@ -50,7 +50,10 @@ by sanding down bamboo to fit together were the weakest parts of the bike.
 *Figure 3: Initial setup*
 
 ![image](/images/bamboo/fig4.png)
-*Figure 4: Italian frame from 1980s Figure 5: Newer English frame*
+*Figure 4: Italian frame from 1980s*
+
+![image](/images/bamboo/fig5.jpg)
+*Figure 5: Newer English frame*
 
 ### Assembly
 
@@ -115,9 +118,9 @@ applied to further strengthen the frame, perhaps even repairing the split bamboo
 not to do this as a memento of the moment it broke beneath me.
 
 ![image](/images/bamboo/fig11.jpg)
-
 *Figure 11: Rear seatstay sliding out of its socket*
-| **    What    **              | **    Price    ** | **    Shipping    ** | **    Total    **   |
+
+| **What**              | **Price** | **Shipping** | **Total**   |
 |--------------------------|-----------|--------------|-------------|
 | Bamboo                   | £90.60    | £15.00       | £105.60     |
 | Hemp fiber               | £18.72    | £5.10        | £23.82      |
@@ -134,7 +137,7 @@ not to do this as a memento of the moment it broke beneath me.
 | Tyres                    | £26.00    |              | £26.00      |
 | Stem & headset           | £26.40    |              | £26.40      |
 | Groupset and wheels      | £80.00    |              | £80.00      |
-| **    Total:    **               |           |              | **    £523.03    ** |
+| **Total:**               |           |              | **£523.03** |
 *Table 1: Cost breakup of complete project*
 
 ### Cost
@@ -172,16 +175,16 @@ I finished by building a pretty wall mountable stand for the bike, ready to disp
 
 Thank you very much for the support of this grant and other supporters of this project.
 
-| What                                         | Price              |
-|----------------------------------------------|--------------------|
-|     West system Epoxy Junior Pack            |     £24.25         |
-|     Heavy duty rubber gloves                 |     £3.49          |
-|     Brush pack                               |     £2.79          |
-|     Dremel                                   |     £44.18         |
-|     Electrical tape                          |     £2.00          |
-|     Tungsten Carbide bits + sanding bands    |     £29.26         |
-|     Wall mount straight arm                  |     £24.68         |
-| **    Total   **                             | **    £130.65   ** |
+| What                                        | Price              |
+|---------------------------------------------|--------------------|
+|     West system Epoxy Junior Pack           |     £24.25         |
+|     Heavy duty rubber gloves                |     £3.49          |
+|     Brush pack                              |     £2.79          |
+|     Dremel                                  |     £44.18         |
+|     Electrical tape                         |     £2.00          |
+|     Tungsten Carbide bits + sanding bands   |     £29.26         |
+|     Wall mount straight arm                 |     £24.68         |
+| **Total**                             | **£130.65** |
 
 ## References
 
