@@ -18,9 +18,7 @@ I had been listening to a discussion about a flimsy aluminium bike on the stage 
 I went home and downloaded the CES software to find out what that green bubble might be hiding. To my surprise it was bamboo.
 
 ![image](/images/bamboo/fig1.png)
-```
-Figure 1: Young’s modulus vs. density with performance index for stiffness-limited design
-```
+*Figure 1: Young’s modulus vs. density with performance index for stiffness-limited design*
 ## Design
 
 During research, I found a research paper written by Blair Frandeen from Single Track Vehicle Design Cal Poly, San Luis Obispo and Professor John Fabijanic [1]. Full credit is given to this team for any design and/or inspiration taken from this document. Figure 2 shows these drawings. They were altered slightly to accommodate a slightly larger frame size due to my height of 6'3.
