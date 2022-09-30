@@ -6,9 +6,6 @@ excerpt: "Over the 2020 Coronavirus lockdown, I built a bamboo bicycle!
 collection: portfolio
 ---
 
-For more a more detailed report, please find the following [PDF](/files/mybamboobike.pdf).
-
-
 ## Inspiration
 
 On a tired Tuesday morning, I sat in a materials lecture attempting to absorb the copious information being sent my way like a sponge. But halfway into the lecture one thing really caught my eye: a CES graph of all things.
