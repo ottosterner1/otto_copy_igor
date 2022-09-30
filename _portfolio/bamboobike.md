@@ -120,24 +120,25 @@ not to do this as a memento of the moment it broke beneath me.
 ![image](/images/bamboo/fig11.jpg)
 *Figure 11: Rear seatstay sliding out of its socket*
 
-| **What**              | **Price** | **Shipping** | **Total**   |
-|--------------------------|-----------|--------------|-------------|
-| Bamboo                   | £90.60    | £15.00       | £105.60     |
-| Hemp fiber               | £18.72    | £5.10        | £23.82      |
-| Epoxy resin              | £41.99    |              | £41.99      |
-| Bike to take apart x2    | £33.00    | £8.20        | £41.20      |
-| Bike workstand           | £79.99    |              | £79.99      |
-| Electrical Tape          | £0.89     |              | £0.89       |
-| Clamps                   | £6.00     |              | £6.00       |
-| Digital Vernier Calipers | £5.29     |              | £5.29       |
-| Misc. tools              | £28.49    |              | £28.49      |
-| 4x4 MDF Board            | £16.29    |              | £16.29      |
-| Seat                     | £9.99     | £4.10        | £14.09      |
-| Chain, break and cable   | £26.98    |              | £26.98      |
-| Tyres                    | £26.00    |              | £26.00      |
-| Stem & headset           | £26.40    |              | £26.40      |
-| Groupset and wheels      | £80.00    |              | £80.00      |
-| **Total:**               |           |              | **£523.03** |
+| What                       | Price   | Shipping  | Total         |
+|----------------------------|---------|-----------|---------------|
+| Bamboo                     | £90.60  | £15.00    | £105.60       |
+| Hemp fiber                 | £18.72  | £5.10     | £23.82        |
+| Epoxy resin                | £41.99  |           | £41.99        |
+| Bike to take apart x2      | £33.00  | £8.20     | £41.20        |
+| Bike workstand             | £79.99  |           | £79.99        |
+| Electrical Tape            | £0.89   |           | £0.89         |
+| Clamps                     | £6.00   |           | £6.00         |
+| Digital Vernier Calipers   | £5.29   |           | £5.29         |
+| Misc. tools                | £28.49  |           | £28.49        |
+| 4x4 MDF Board              | £16.29  |           | £16.29        |
+| Seat                       | £9.99   | £4.10     | £14.09        |
+| Chain, break and cable     | £26.98  |           | £26.98        |
+| Tyres                      | £26.00  |           | £26.00        |
+| Stem & headset             | £26.40  |           | £26.40        |
+| Groupset and wheels        | £80.00  |           | £80.00        |
+| -------------------------- |---------|-----------| ------------- |
+| Total:                     |         |           | £523.03       |
 
 *Table 1: Cost breakup of complete project*
 
