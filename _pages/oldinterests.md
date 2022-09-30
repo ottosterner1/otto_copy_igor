@@ -14,11 +14,11 @@ This is a space where I outline some of my interests, largely through the form o
 My Bamboo Bike
 ======
 
-Over the 2020 Coronavirus lockdown, I built a bamboo bicycle!
+
 
 ![image](/images/bamboo.jpg)
 
-For more a more detailed report, please find the following [PDF](/files/mybamboobike.pdf). For a sustainability poster on bamboo and bamboo bikes, please find this [PDF](/files/bamboobike.pdf).
+ For a sustainability poster on bamboo and bamboo bikes, please find this [PDF](/files/bamboobike.pdf).
 
 Code-Switching
 ======
@@ -35,6 +35,6 @@ International Summer School of Language and Culture
 
 During the 2022 summer, I joined Heidelberg University in Germany for a month of language & cultural learning.
 
-![image](/images/class.jpg)
+![image](/images/heidelberg.jpg)
 
  A full report is given in the following [PDF](https://igorsterner.github.io/files/heidelberg.pdf).
