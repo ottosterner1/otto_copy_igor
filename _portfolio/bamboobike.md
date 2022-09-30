@@ -187,6 +187,7 @@ Thank you very much for the support of this grant and other supporters of this p
 |     Tungsten Carbide bits + sanding bands   |     £29.26         |
 |     Wall mount straight arm                 |     £24.68         |
 | **Total**                             | **£130.65** |
+
 *Table 2: Cost breakup of additional work on project*
 
 ## References
