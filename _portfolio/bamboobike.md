@@ -31,9 +31,8 @@ Due to historical specifications, I decided it was simply too difficult to manuf
 To form the joints between the bamboo canes, I required an adhesive that bonded well with both metal and bamboo whilst also being suitably strong to take the forces required of a bike whilst riding. For this reason, I selected an epoxy resin otherwise used for wooden boats, combined with hemp fibre which is a sustainable material widely available and commonly used by plumbers [4].
 
 ![image](/images/bamboo/fig2.png)
-```
-Figure 2: Drawings from which the bike was made
-```
+*Figure 2: Drawings from which the bike was made*
+
 ### Manufacturing
 
 Figure 3 shows my initial setup, on top of which I stuck the full detailed frame details I printed off to scale to work from. On the left of the picture, the bamboo canes I imported are shown [5].
@@ -48,14 +47,10 @@ fibre. However, this was not always possible. Ultimately the joints which were p
 by sanding down bamboo to fit together were the weakest parts of the bike.
 
 ![image](/images/bamboo/fig3.JPG)
+*Figure 3: Initial setup*
 
-```
-Figure 3: Initial setup
-```
 ![image](/images/bamboo/fig4.png)
-```
-Figure 4: Italian frame from 1980s Figure 5: Newer English frame
-```
+*Figure 4: Italian frame from 1980s Figure 5: Newer English frame*
 
 ### Assembly
 
@@ -75,9 +70,7 @@ one side with a freewhell and a single speed cassette on the other. This meant n
 cables to a rear derailleur were required.
 
 ![image](/images/bamboo/fig6.jpg)
-```
-Figure 6: Completed bamboo frame
-```
+*Figure 6: Completed bamboo frame*
 
 ### Completion and issues
 
@@ -97,21 +90,17 @@ but with some alternations could be more smooth.
 The following figures provide some more photos of the final bike.
 
 ![image](/images/bamboo/fig7.jpg)
-```
-Figure 7: Front view
-```
+*Figure 7: Front view*
+
 ![image](/images/bamboo/fig8.jpg)
-```
-Figure 8: Rear view
-```
+*Figure 8: Rear view*
+
 ![image](/images/bamboo/fig9.jpg)
-```
-Figure 9: Groupset
-```
+*Figure 9: Groupset*
+
 ![image](/images/bamboo/fig10.jpg)
-```
-Figure 10: Seat
-```
+*Figure 10: Seat*
+
 ### Failure
 
 The bike was extremely comfortable to ride and certainly fast. It is very light at only 9.1kg.
@@ -126,9 +115,8 @@ applied to further strengthen the frame, perhaps even repairing the split bamboo
 not to do this as a memento of the moment it broke beneath me.
 
 ![image](/images/bamboo/fig11.jpg)
-```
-Figure 11: Rear seatstay sliding out of its socket
-```
+
+*Figure 11: Rear seatstay sliding out of its socket*
 | **    What    **              | **    Price    ** | **    Shipping    ** | **    Total    **   |
 |--------------------------|-----------|--------------|-------------|
 | Bamboo                   | £90.60    | £15.00       | £105.60     |
@@ -147,9 +135,8 @@ Figure 11: Rear seatstay sliding out of its socket
 | Stem & headset           | £26.40    |              | £26.40      |
 | Groupset and wheels      | £80.00    |              | £80.00      |
 | **    Total:    **               |           |              | **    £523.03    ** |
-```
-Table 1: Cost breakup of complete project
-```
+*Table 1: Cost breakup of complete project*
+
 ### Cost
 
 The costs detailed in Table 1 are amount to an approximate 60% overspend. This is made up of
