@@ -6,7 +6,7 @@ excerpt: "I was the UK Overall winner (school) of the RCSU/Imperial College Scie
 collection: portfolio
 ---
 
-![image](/images/heidelberg/image3.jpeg)
+![image](/images/challenge/profile.jpg)
 
 ## Background
 
