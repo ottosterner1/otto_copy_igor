@@ -2,9 +2,11 @@
 title: "My Bamboo Bike"
 excerpt: "Over the 2020 Coronavirus lockdown, I built a bamboo bicycle!
 
-<br/><img src='/images/bamboo.jpg'>"
+<br/><img src='/images/bamboo/final_bikey.jpg'>"
 collection: portfolio
 ---
+
+![image](/images/bamboo.jpg)
 
 ## Inspiration
 
