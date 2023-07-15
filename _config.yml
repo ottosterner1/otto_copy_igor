@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Igor Sterner"
+title                    : "Otto Sterner"
 title_separator          : "-"
-name                     : &name "Igor Sterner"
-description              : &description "Personal website for Igor Sterner"
-url                      : https://igorsterner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Otto Sterner"
+description              : &description "Personal website for Otto Sterner"
+url                      : https://ottosterner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Igor Sterner"
-  avatar           : "igorsterner.jpg"
-  bio              : "Master's student @ University of Cambridge"
+  name             : "Otto Sterner"
+  avatar           : "ottoprofile.png"
+  bio              : "Mathematics masters Graduate, Data Science post graduate and Software Engineer"
   location         : "Pembroke College, Cambridge, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "is473@cam.ac.uk"
+  email            : "ottosterner1@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "igorsterner"
+  github           : "ottosterner1"
   google_plus      :
   keybase          :
   instagram        :
